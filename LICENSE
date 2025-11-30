@@ -19,3 +19,40 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+------------------------------------------------------------
+AI USE RESTRICTION ADDENDUM
+------------------------------------------------------------
+
+Notwithstanding any permission granted above, the following additional
+restrictions apply:
+
+1. **Prohibited AI/ML Use**
+   The Software, including its source code, object code, structure,
+   organization, text, or any derivative works, MAY NOT be used for the
+   purpose of training, fine-tuning, querying, analyzing, or otherwise
+   improving any machine learning system, including but not limited to
+   large language models, neural networks, embeddings, statistical models,
+   or any dataset intended for such systems.
+
+2. **No Automated Scraping or Ingestion**
+   You MAY NOT use automated tools, bots, crawlers, or scripts to scrape,
+   ingest, index, copy, or otherwise collect this Software or its contents
+   for inclusion in datasets used for machine learning or AI systems.
+
+3. **Prohibition on Derived Model Weights**
+   You MAY NOT create or distribute any machine learning model, including
+   but not limited to neural network weights, that directly or indirectly
+   incorporates information derived from this Software.
+
+4. **Commercial AI Licensing**
+   Any AI-related use of the Software requires a separate, explicit
+   commercial license negotiated with the copyright holder.
+
+5. **Survival of Terms**
+   These AI restrictions survive any termination of this license and apply
+   to all copies, forks, modifications, and redistributions of the Software.
+
+By using the Software, you agree to comply with all terms of the AI Use
+Restriction Addendum. Non-compliance constitutes unauthorized use and a
+violation of copyright law.
